@@ -1,5 +1,5 @@
 # VariantRank
-在https://github.com/promworkbench下载需要的proM版本
+在https://github.com/promworkbench  下载需要的proM版本
 下载eclipse和ivy插件，最新版java se
 eclipse导入项目后，通过ivy.xml导入项目所需库
 选择ProM Package Manager右键，运行方式选择ProM Package Manager，启动proM插件管理器，安装必要的启动插件和常用挖掘算法。
