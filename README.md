@@ -4,15 +4,19 @@
 ### LogRank
 - **Plugin**: LogRankSamplingPlugin.java
 - **Required Package**: PageRankSampling.java, ConvertTraceToVector.java
+- **Reference**: Cong Liu, Yulong Pei, Long Cheng, Qingtian Zeng, Hua Duan. Sampling Business Process Event Logs Using Graph‐Based Ranking Model. Concurrency Computation: Practice Experience, Vol. 33, No. 5, pp. e5974, 2021.
 ### LogRank+
 - **Plugin**: SimRankSamplingPlugin.java
 - **Required Package**: SortingHashMapByValues.java, ConvertTraceToVector.java
+- **Reference**: Cong Liu, Yulong Pei, Qingtian Zeng, Hua Duan, Feng Zhang. Logrank+: A Novel Approach to Support Business Process Event Log Sampling [C]. International Conference on Web Information Systems Engineering. Springer, pp. 417-430, 2020.
 ### LogRank++
 - **Plugin**: SigRankSamplingPlugin.java
 - **Required Package**: SortingHashMapByValues.java
+- **Reference**: 刘聪, 张帅鹏, 李会玲, 何华, 曾庆田. Logrank++: 一种高效的业务过程事件日志采样方法 [J]. 计算机集成制造系统, Vol. 30, No. 2, pp. 623, 2024.
 ### RevisedLogRank++
 - **Plugin**: RevisedSigRankSamplingPlugin.java
 - **Required Package**: SortingHashMapByValues.java
+- **Reference**: 刘聪, 张帅鹏, 李会玲, 何华, 曾庆田. Logrank++: 一种高效的业务过程事件日志采样方法 [J]. 计算机集成制造系统, Vol. 30, No. 2, pp. 623, 2024.
 ### VarientRank
 - **Plugin**: VarientRankPlugin.java
 - **Required Package**: SortingHashMapByValues.java
