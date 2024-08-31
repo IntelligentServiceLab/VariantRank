@@ -10,6 +10,9 @@
 ### LogRank++
 - **Plugin**: SigRankSamplingPlugin.java
 - **Required Package**: SortingHashMapByValues.java
+### RevisedLogRank++
+- **Plugin**: RevisedSigRankSamplingPlugin.java
+- **Required Package**: SortingHashMapByValues.java
 ### VarientRank
 - **Plugin**: VarientRankPlugin.java
 - **Required Package**: SortingHashMapByValues.java
