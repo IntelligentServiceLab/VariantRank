@@ -34,4 +34,4 @@
 
 - **Step 6**: Import the event set like BPIC_2012_O.xes, select the algorithm like VarientRankPlugin, choose the parameters, and complete the event set sampling.
 ## Contact
-Email： jiaweichen0031@gmail.com (Jiawei Chen)
+**Email**： jiaweichen0031@gmail.com (Jiawei Chen)
