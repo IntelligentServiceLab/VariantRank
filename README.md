@@ -26,9 +26,3 @@
 - **Step 5**: Select ProM with UITopia, right-click, choose ProM with UITopia as the running mode, and start ProM Tool.
 
 - **Step 6**: Import the event set like BPIC_2012_O.xes, select the algorithm like VarientRankPlugin, choose the parameters, and complete the event set sampling.
-
-The operation of LogRankSamplingPlugin(LogRank) requires  PageRankSampling.java and ConvertTraceToVector.
-
-The operation of SigRankSamplingPlugin(LogRank++) requires  SortingHashMapByValues.java.
-
-The operation of SimRankSamplingPlugin(LogRank+) requires  SortingHashMapByValues.java and ConvertTraceToVector.java.
