@@ -3,7 +3,7 @@
 ## Sampling Methods and Plugins
 ### LogRank
 - **Plugin**: LogRankSamplingPlugin.java
-- **Required Package**: PageRankSampling.java and ConvertTraceToVector
+- **Required Package**: PageRankSampling.java, ConvertTraceToVector
 ### LogRank+
 
 ### LogRank++
