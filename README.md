@@ -1,5 +1,5 @@
 # VariantRank
- Download the required proM version from https://github.com/promworkbench
+Download the required proM version from https://github.com/promworkbench
 
 Download Eclipse and Ivy plugins, latest version of Java SE
 
