@@ -5,10 +5,14 @@
 - **Plugin**: LogRankSamplingPlugin.java
 - **Required Package**: PageRankSampling.java, ConvertTraceToVector.java
 ### LogRank+
-
+- **Plugin**: SimRankSamplingPlugin.java
+- **Required Package**: SortingHashMapByValues.java, ConvertTraceToVector.java
 ### LogRank++
-
+- **Plugin**: SigRankSamplingPlugin.java
+- **Required Package**: SortingHashMapByValues.java
 ### VarientRank
+- **Plugin**: VarientRankPlugin.java
+- **Required Package**: SortingHashMapByValues.java
 
 ## How to Use Sampling Plugins
 - **Step 1**: Download the required proM version from https://github.com/promworkbench
