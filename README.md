@@ -1,12 +1,12 @@
 # VariantRank
-在https://github.com/promworkbench  下载需要的proM版本
+ Download the required proM version from https://github.com/promworkbench
 
-下载eclipse和ivy插件，最新版java se
+Download Eclipse and Ivy plugins, latest version of Java SE
 
-eclipse导入项目后，通过ivy.xml导入项目所需库
+After importing the project into Eclipse, build the project repository using ivy.xml
 
-选择ProM Package Manager右键，运行方式选择ProM Package Manager，启动proM插件管理器，安装必要的启动插件和常用挖掘算法。
+Right click on ProM Package Manager, select ProM Package Manager as the running mode, start the ProM plugin manager, install necessary startup plugins and commonly used mining algorithms.
 
-选择ProM with UITopia ，右键，运行方式选择ProM with UITopia，启动proM
+Select ProM with UITopia, right-click, choose ProM with UITopia as the running mode, and start ProM Tool
 
-导入事件集，选择算法，选择参数后，完成事件集采样。
+Import the event set like BPIC_2012_O.xes, select the algorithm like VarientRankPlugin, choose the parameters, and complete the event set sampling.
