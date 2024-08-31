@@ -1,4 +1,12 @@
 # VariantRank
+
+## Sampling Methods and Plugins
+### LogRank
+### LogRank+
+### LogRank++
+### VarientRank
+
+
 Download the required proM version from https://github.com/promworkbench
 
 Download Eclipse and Ivy plugins, latest version of Java SE.
