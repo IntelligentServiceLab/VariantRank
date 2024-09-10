@@ -33,7 +33,7 @@ import org.processmining.framework.util.ui.widgets.helper.UserCancelledException
 import equalscale.SampleMethods.SortingHashMapByValues;
 
 @Plugin(
-		name = "VarientRank-Plugin",// plugin name
+		name = "VariantRank-Plugin",// plugin name
 		
 		returnLabels = {"Sample Log"}, //return labels
 		returnTypes = {XLog.class},//return class
@@ -42,9 +42,9 @@ import equalscale.SampleMethods.SortingHashMapByValues;
 		parameterLabels = {"Large Event Log"},
 		
 		userAccessible = true,
-		help = "sampling via varientrank." 
+		help = "sampling via variantrank." 
 		)
-public class VarientRankPlugin {
+public class VariantRankPlugin {
 	@UITopiaVariant(
 	        affiliation = "TU/e", 
 	        author = "Jiawei chen", 
@@ -97,7 +97,7 @@ public class VarientRankPlugin {
 		//对于每条轨迹，代码创建了两个HashSet，分别用来存储轨迹中的活动（activitySet）和直接后继关系对（dfrSet）。通过嵌套的for循环，遍历轨迹中的每个活动，并提取活动名称和直接后继关系对。
 		//轨迹变体 eventSet
 		HashSet<ArrayList> eventSet = new HashSet<>();
-		HashMap<String, XTrace> varienttrace = new HashMap<>();
+		HashMap<String, XTrace> varianttrace = new HashMap<>();
 		for(XTrace trace:originalLog)
 		{
 			
